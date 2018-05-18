@@ -1,0 +1,52 @@
+The social network contains the users:
+User's name: Ron
+The user has 1 friend:
+Sagi
+
+User's name: Sagi
+The user has 2 friends:
+Ron
+Grisha
+
+User's name: Grisha
+The user has 2 friends:
+Sagi
+Ilana
+
+User's name: Ilana
+The user has 2 friends:
+Grisha
+Alona
+
+User's name: Alona
+The user has 1 friend:
+Ilana
+
+The social network contains the users:
+User's name: Ron
+The user has 1 friend:
+Sagi
+
+User's name: Sagi
+The user has 3 friends:
+Alona
+Ron
+Grisha
+
+User's name: Grisha
+The user has 3 friends:
+Alona
+Sagi
+Ilana
+
+User's name: Ilana
+The user has 2 friends:
+Grisha
+Alona
+
+User's name: Alona
+The user has 3 friends:
+Grisha
+Sagi
+Ilana
+
