@@ -5,7 +5,7 @@
 #include <string.h>
 #include "User.h"
 #define MAX_LEN 256
-
+//hi
 typedef struct Node_u *PUNODE;
 
 PUNODE ulink_create();
